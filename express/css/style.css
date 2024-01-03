@@ -1,0 +1,10 @@
+* {
+    background-color: red;
+}
+
+.compadres {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%s;
+}
